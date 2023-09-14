@@ -5,7 +5,6 @@ import OurTeam from "../OurTeam";
 import GivingBack from "../GivingBack";
 import ContactUs from "../ContactUs";
 import Footer from "../../components/Footer";
-import useWindowSize from "../../hooks/useWindowSize";
 
 const Home = () => {
   return (

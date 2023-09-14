@@ -1,10 +1,8 @@
 import { Grid, Typography } from "@mui/material";
 import "./styles.css";
-import { useNavigate } from "react-router";
 import useWindowSize from "../../hooks/useWindowSize";
 
 const Footer = () => {
-  const navigate = useNavigate();
   const windowSize = useWindowSize();
 
   const desktopLayout = () => {

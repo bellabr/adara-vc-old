@@ -1,5 +1,5 @@
 import "./styles.css";
-import { AppBar, Drawer, Grid, IconButton, Typography, Button } from "@mui/material";
+import { AppBar, Drawer, Grid, IconButton, Typography } from "@mui/material";
 import { useWindowSize } from "../../hooks/useWindowSize";
 import { useState, useEffect } from "react";
 import { IoMdArrowDropdown } from 'react-icons/io';
