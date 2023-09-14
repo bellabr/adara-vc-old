@@ -1,0 +1,127 @@
+Typography {
+    font-family: 'Audiowide', sans-serif;
+}
+
+#our-team {
+    background-color: #93D4EB;
+    height: 130vh;
+    width: 100vw;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#our-team #our-team-title {
+    font-family: 'Audiowide', sans-serif;
+    color: black;
+    padding-bottom: 5vh;
+}
+
+#our-team #divider {
+    background-color: black;
+    border-width: 1px;
+    width: 90vw;
+}
+
+
+
+#our-team #our-team-grid {
+    padding-top: 10vh;
+}
+
+#our-team #member-logos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+}
+
+#our-team #member-logos #member {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#our-team img {
+    height: 30vh;
+    width: 20vw;
+    max-width: 195px;
+    object-fit: cover;
+    object-position: top;
+    border-radius: 20px;
+}
+
+#our-team #member-logos #member:hover {
+    cursor: pointer;
+}
+
+
+
+#our-team mobile-our-team {
+    background-color: #93D4EB;
+    height: 315vh;
+    width: 100vw;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#our-team mobile-our-team #our-team-title {
+    font-family: 'Audiowide', sans-serif;
+    color: black;
+    padding-bottom: 1vh;
+}
+
+#our-team mobile-our-team #divider {
+    background-color: black;
+    border-width: 1px;
+    width: 90vw;
+}
+
+#our-team mobile-our-team #our-team-grid {
+    padding-top: 5vh;
+    row-gap: 10vh;
+}
+
+#our-team mobile-our-team #member-logos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+}
+
+#our-team mobile-our-team #member-logos #member {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#our-team mobile-our-team img {
+    height: 35vh;
+    width: 50vw;
+    max-width: 250px;
+    max-height: 300px;
+    object-fit: cover;
+    object-position: top;
+    border-radius: 20px;
+}
+
+#our-team mobile-our-team #member-logos #member:hover {
+    cursor: pointer;
+}
+
+#our-team mobile-our-team #member-name {
+    font-family: 'Audiowide', sans-serif;
+    color: black;
+    background-color: #ffffff;
+    width: 60vw;
+    border-radius: 20px;
+}

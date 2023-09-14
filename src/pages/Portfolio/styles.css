@@ -1,0 +1,111 @@
+Typography {
+    font-family: 'Audiowide', sans-serif;
+}
+
+#portfolio {
+    background-color: white;
+    height: 180vh;
+    width: 100vw;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#portfolio #portfolio-title {
+    font-family: 'Audiowide', sans-serif;
+    color: black;
+    padding-bottom: 5vh;
+}
+
+#portfolio #divider {
+    background-color: black;
+    border-width: 1px;
+    width: 90vw;
+}
+
+#portfolio #portfolio-grid {
+    padding-top: 10vh;
+}
+
+#portfolio #portfolio-logos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+}
+
+#portfolio #portfolio-logos #portfolio-logo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#portfolio img {
+    max-width: 30vw;
+    max-height: 20vh;
+}
+
+#portfolio #text-img {
+    max-width: 20vw;
+}
+
+#portfolio #portfolio-logos #portfolio-logo:hover {
+    cursor: pointer;
+    transform: scale(1.02);
+}
+
+
+
+
+#portfolio mobile-portfolio {
+    background-color: white;
+    height: 125vh;
+    width: 100vw;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#portfolio mobile-portfolio #portfolio-title {
+    font-family: 'Audiowide', sans-serif;
+    color: black;
+    padding-bottom: 1vh;
+}
+
+#portfolio mobile-portfolio #divider {
+    background-color: black;
+    border-width: 1px;
+    width: 90vw;
+}
+
+#portfolio mobile-portfolio #portfolio-logos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 25vh;
+}
+
+#portfolio mobile-portfolio #portfolio-logos #portfolio-logo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#portfolio mobile-portfolio img {
+    max-width: 30vw;
+    max-height: 20vh;
+}
+
+#portfolio mobile-portfolio #portfolio-logos #portfolio-logo:hover {
+    cursor: pointer;
+    transform: scale(1.02);
+}
+
