@@ -61,7 +61,7 @@ Typography {
 
 
 
-#our-team mobile-our-team {
+#our-team #mobile-our-team {
     background-color: #93D4EB;
     height: 315vh;
     width: 100vw;
@@ -72,24 +72,24 @@ Typography {
     justify-content: center;
 }
 
-#our-team mobile-our-team #our-team-title {
+#our-team #mobile-our-team #our-team-title {
     font-family: 'Audiowide', sans-serif;
     color: black;
     padding-bottom: 1vh;
 }
 
-#our-team mobile-our-team #divider {
+#our-team #mobile-our-team #divider {
     background-color: black;
     border-width: 1px;
     width: 90vw;
 }
 
-#our-team mobile-our-team #our-team-grid {
+#our-team #mobile-our-team #our-team-grid {
     padding-top: 5vh;
     row-gap: 10vh;
 }
 
-#our-team mobile-our-team #member-logos {
+#our-team #mobile-our-team #member-logos {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -97,14 +97,14 @@ Typography {
     height: 40vh;
 }
 
-#our-team mobile-our-team #member-logos #member {
+#our-team #mobile-our-team #member-logos #member {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
 
-#our-team mobile-our-team img {
+#our-team #mobile-our-team img {
     height: 35vh;
     width: 50vw;
     max-width: 250px;
@@ -114,11 +114,11 @@ Typography {
     border-radius: 20px;
 }
 
-#our-team mobile-our-team #member-logos #member:hover {
+#our-team #mobile-our-team #member-logos #member:hover {
     cursor: pointer;
 }
 
-#our-team mobile-our-team #member-name {
+#our-team #mobile-our-team #member-name {
     font-family: 'Audiowide', sans-serif;
     color: black;
     background-color: #ffffff;

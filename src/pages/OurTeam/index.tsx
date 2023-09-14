@@ -82,7 +82,7 @@ const OurTeam = () => {
 
   const mobileLayout = () => {
     return (
-      <div id="our-team">
+      <div id="our-team" style={{height: '315vh'}}>
         <div id="mobile-our-team">
           <Typography variant="h2" id="our-team-title">Our Team</Typography>
           <Divider id="divider"/>

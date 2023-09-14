@@ -103,7 +103,7 @@ const Portfolio = () => {
 
   const mobileLayout = () => {
     return (
-      <div id="portfolio">
+      <div id="portfolio" style={{height: '125vh'}}>
         <div id="mobile-portfolio">
           <Typography variant="h2" id="portfolio-title">Portfolio</Typography>
           <Divider id="divider"/>

@@ -47,7 +47,7 @@ Typography {
 }
 
 
-#contact-us mobile-contact-us {
+#contact-us #mobile-contact-us {
     background-color: #73ADBE;
     height: 50vh;
     width: 100vw;
@@ -58,33 +58,33 @@ Typography {
     justify-content: center;
 }
 
-#contact-us mobile-contact-us #contact-us-title {
+#contact-us #mobile-contact-us #contact-us-title {
     font-family: 'Audiowide', sans-serif;
     color: black;
     padding-bottom: 1vh;
 }
 
-#contact-us mobile-contact-us #divider {
+#contact-us #mobile-contact-us #divider {
     background-color: black;
     border-width: 1px;
     width: 90vw;
 }
 
-#contact-us mobile-contact-us #et {
+#contact-us #mobile-contact-us #et {
     padding-top: 5vh;
 }
 
-#contact-us mobile-contact-us #et img {
+#contact-us #mobile-contact-us #et img {
     border-radius: 20px;
     width: 40vw;
 }
 
-#contact-us mobile-contact-us #et img:hover {
+#contact-us #mobile-contact-us #et img:hover {
     cursor: pointer;
     transform: scale(1.02);
 }
 
-#contact-us mobile-contact-us #linkedin {
+#contact-us #mobile-contact-us #linkedin {
     padding-top: 2vh;
     font-family: 'Audiowide', sans-serif;
     color: #000000;

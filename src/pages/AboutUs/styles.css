@@ -34,7 +34,7 @@ Typography {
     padding-bottom: 15vh;
 }
 
-#about-us mobile-about-us {
+#about-us #mobile-about-us {
     background-color: #2D4C5C;
     height: 65vh;
     width: 100vw;
@@ -45,19 +45,19 @@ Typography {
     justify-content: center;
 }
 
-#about-us mobile-about-us #mobile-about-us-title {
+#about-us #mobile-about-us #mobile-about-us-title {
     font-family: 'Audiowide', sans-serif;
     color: white;
     padding-bottom: 1vh;
 }
 
-#about-us mobile-about-us #mobile-divider {
+#about-us #mobile-about-us #mobile-divider {
     background-color: white;
     border-width: 1px;
     width: 90vw;
 }
 
-#about-us mobile-about-us #mobile-about-us-body {
+#about-us #mobile-about-us #mobile-about-us-body {
     font-family: 'Audiowide', sans-serif;
     color: white;
     padding-left: 10vw;

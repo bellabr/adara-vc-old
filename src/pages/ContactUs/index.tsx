@@ -24,7 +24,7 @@ const ContactUs = () => {
 
   const mobileLayout = () => {
     return (
-      <div id="contact-us">
+      <div id="contact-us" style={{height: '50vh'}}>
         <div id="mobile-contact-us">
           <Typography variant="h2" id="contact-us-title">Contact Us</Typography>
           <Divider id="divider"/>

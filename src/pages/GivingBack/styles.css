@@ -60,7 +60,7 @@ Typography {
 }
 
 
-#giving-back mobile-giving-back {
+#giving-back #mobile-giving-back {
     background-color: white;
     height: 145vh;
     width: 100vw;
@@ -71,23 +71,23 @@ Typography {
     justify-content: center;
 }
 
-#giving-back mobile-giving-back #giving-back-title {
+#giving-back #mobile-giving-back #giving-back-title {
     font-family: 'Audiowide', sans-serif;
     color: black;
     padding-bottom: 1vh;
 }
 
-#giving-back mobile-giving-back #divider {
+#giving-back #mobile-giving-back #divider {
     background-color: black;
     border-width: 1px;
     width: 90vw;
 }
 
-#giving-back mobile-giving-back #giving-back-grid {
+#giving-back #mobile-giving-back #giving-back-grid {
     padding-top: 1vh;
 }
 
-#giving-back mobile-giving-back #giving-back-logos {
+#giving-back #mobile-giving-back #giving-back-logos {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -95,19 +95,19 @@ Typography {
     height: 20vh;
 }
 
-#giving-back mobile-giving-back #giving-back-logos #giving-back-logo {
+#giving-back #mobile-giving-back #giving-back-logos #giving-back-logo {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
 
-#giving-back mobile-giving-back img {
+#giving-back #mobile-giving-back img {
     max-width: 40vw;
     max-height: 15vh;
 }
 
-#giving-back mobile-giving-back #giving-back-logos #giving-back-logo:hover {
+#giving-back #mobile-giving-back #giving-back-logos #giving-back-logo:hover {
     cursor: pointer;
     transform: scale(1.02);
 }

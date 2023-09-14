@@ -131,7 +131,7 @@ const GivingBack = () => {
 
   const mobileLayout = () => {
     return (
-      <div id="giving-back">
+      <div id="giving-back" style={{height: '145vh'}}>
         <div id="mobile-giving-back">
           <Typography variant="h2" id="giving-back-title">Giving Back</Typography>
           <Divider id="divider"/>

@@ -1,4 +1,3 @@
-import "./styles.css";
 import Title from "../Title";
 import AboutUs from "../AboutUs";
 import Portfolio from "../Portfolio";
